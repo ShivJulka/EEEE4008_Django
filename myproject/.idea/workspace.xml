@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -23,9 +30,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Master Yoda/OneDrive - The University of Nottingham/Documents/university/IndividualyY4/EEEE4008/myproject&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Master Yoda/Downloads/Try-Django-3.2-main/Try-Django-3.2-main/trydjango&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Master Yoda\OneDrive - The University of Nottingham\Documents\university\IndividualyY4\EEEE4008\myproject" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="myproject" type="Python.DjangoServer" factoryName="Django server">
       <module name="myproject" />
@@ -63,6 +76,9 @@
       <workItem from="1665744908945" duration="860000" />
       <workItem from="1665746788661" duration="631000" />
       <workItem from="1667519991414" duration="379000" />
+      <workItem from="1668693440070" duration="4450000" />
+      <workItem from="1668772728938" duration="89000" />
+      <workItem from="1668773109676" duration="1020000" />
     </task>
     <servers />
   </component>
