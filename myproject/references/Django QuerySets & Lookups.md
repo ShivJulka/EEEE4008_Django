@@ -1,8 +1,9 @@
 Basic Django QuerySet Reference Guide
 
 ## `.all()` Get everything
+
 ```python
-from articles.models import Article
+from myproject.models import Article
 
 qs = Article.objects.all()
 ```

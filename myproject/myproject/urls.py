@@ -16,10 +16,19 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
-from .views import home_view
+from .views import homePage
+from .views import Registration
+from .views import LogIn
+from .views import profile_view
+from .views import edit_profile
 
 
 urlpatterns = [
-    path('',home_view), #home
+    path('',homePage), #home
+    path('Registration/',Registration), #log in function
     path('admin/', admin.site.urls),
+    path('LogIn/', LogIn, name="login"),  # log in function
+    path('profile/', profile_view, name="profile"),  # log in function
+    path('profile/', edit_profile, name="edit_profile"),  # log in function
+
 ]
